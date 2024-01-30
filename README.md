@@ -6,8 +6,8 @@
   - [Description](#description)
     - [What can users do?](#what-can-users-do)
     - [Technology used](#technology-used)
+- [Preview](#Preview)
 - [Installation](#installation)
-- [Contributers](#contributers)
 - [Future goals](#future-goals)
 - [License](#license)
 
@@ -43,7 +43,31 @@ ScholarSpace came in 3rd place. This application is a hub for students to find i
 - Add applicants to a shortlist.
 - Chat with applicants shortlisted.
 - Write reviews for students employed.
-  
+
+### Preview
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/d4a540bc-8e77-4230-bbc2-3cd7c0b69fb5)
+
+## Students POV
+### Profile tab
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/94c19f97-4f2f-4427-b4a5-3e5edd10251f)
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/2732a34d-4a8d-4949-bdf3-bfabfb407919)
+### Upskill tab
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/0215bc22-331b-44a7-abb5-df748e35a9df)
+### Tips tab 
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/a3611b6a-d673-4b23-b548-babe907880a7)
+### Discovery tab
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/805087dd-87a8-44bd-8187-3712abb7501d)
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/9905f6c4-e649-4821-a52e-eb66e7d4300c)
+
+## Recruiters POV
+### Profile tab
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/1218bbe0-4edd-4493-87fc-3a971053a5b6)
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/2e210603-b95c-4623-a783-8921c8c527af)
+### Jobs tab
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/72d1eac3-ebc0-4af5-9391-1af6906a183b)
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/ca49ca2a-dd97-49f3-b0ec-d42729a5d2d4)
+![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/10dc1120-f501-49c8-a4fa-d724f13af091)
+
 ### Technology used
 
 The tools used to build this application are as follows:

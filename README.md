@@ -44,7 +44,7 @@ ScholarSpace came in 3rd place. This application is a hub for students to find i
 - Chat with applicants shortlisted.
 - Write reviews for students employed.
 
-### Preview
+# Preview
 ![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/d4a540bc-8e77-4230-bbc2-3cd7c0b69fb5)
 
 ## Students POV
@@ -68,17 +68,8 @@ ScholarSpace came in 3rd place. This application is a hub for students to find i
 ![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/ca49ca2a-dd97-49f3-b0ec-d42729a5d2d4)
 ![image](https://github.com/sanbradbury/ScholarSpace---Hackjam/assets/84781976/10dc1120-f501-49c8-a4fa-d724f13af091)
 
-### Technology used
-
-The tools used to build this application are as follows:
-- Visual Studio Code
-- Angular
-- Firebase
-
-Languages used:
-- JavaScript
-- TypeScript
-- HTML & CSS
+# Technology used
+![VScode badge](https://img.shields.io/badge/-VScode-007ACC?logo=visualstudiocode&logoColor=white&style=flat) ![Angular badge](https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=white&style=flat) ![Firebase badge](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat) ![Javascript badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat) ![typescript badge](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat) ![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3 badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 
 The focus of this project is to showcase the frontend of the application, with minimal functionality and retrival of basic information from the database. The biggest struggle in developing this prototype was including all the functionality of the application within the short time frame given. However, the prototype shows the expected design, layout and navigation of the application if it were fully functional.
 
